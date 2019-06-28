@@ -1,0 +1,7 @@
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion9\Presentacion9\bin\Debug\Presentacion9.exe.config
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion9\Presentacion9\bin\Debug\Presentacion9.exe
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion9\Presentacion9\bin\Debug\Presentacion9.pdb
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion9\Presentacion9\obj\Debug\Presentacion9.csprojAssemblyReference.cache
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion9\Presentacion9\obj\Debug\Presentacion9.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion9\Presentacion9\obj\Debug\Presentacion9.exe
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion9\Presentacion9\obj\Debug\Presentacion9.pdb
